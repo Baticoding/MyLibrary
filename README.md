@@ -29,13 +29,12 @@ Java Swing tabanlı bir **Kütüphane Yönetim Sistemi**. Kitap ekleme, silme, g
 4. Admin kullanıcı ile giriş yaparak tüm menüleri test edin.
 
 ## Proje Yapısı (özet)
-```
+
 MyLibrary_extracted/
 └── MyLibrary     JAVA ve Interface/
-    ├── aga bunlar ne bilmiyorum ya bakmaya üşendim/
+    
     │   ├── SOFtwareSystemAnalyse/
-    │   │   ├── Library/
-    │   │   ├── Ekran Kaydı 2025-06-25 132254.mp4
+    │   │   ├── Library
     │   │   ├── Report.docx
     │   │   ├── SE2232Project.vpp
     │   │   ├── SE2232Project.vpp.bak_000f
@@ -44,15 +43,7 @@ MyLibrary_extracted/
     │   │   ├── Library/
     │   │   ├── library.sql
     │   │   └── Library.zip
-    │   └── MyLibrary Sunum Videosu.zip
     └── SoftwareSystemAnalyse Project.zip
-```
 
-## Ekran Görüntüleri
-> `screenshots/` klasörüne ekran görüntüleri ekleyin ve bu bölümü güncelleyin.
 
-## Katkı
-- Issue açabilir, PR gönderebilirsiniz.
 
-## Lisans
-MIT veya uygun gördüğünüz bir lisans ile güncelleyebilirsiniz.
