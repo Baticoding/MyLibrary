@@ -1,0 +1,62 @@
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Java ----
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+replay_pid*
+
+# ---- Build output ----
+/bin/
+/out/
+/build/
+/dist/
+/target/
+/classes/
+
+# ---- Maven ----
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+!/.mvn/wrapper/maven-wrapper.jar
+.pmd
+.checkstyle
+
+# ---- Gradle ----
+.gradle/
+build/
+
+# ---- IntelliJ IDEA ----
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ---- NetBeans ----
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+/nbactions.xml
+/nb-configuration.xml
+
+# ---- VS Code ----
+.vscode/
+
+# ---- Coverage & Reports ----
+/jacoco.exec
+/site/
+/coverage/
+/test-output/
+/surefire-reports/
+
+# ---- Other ----
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*~
